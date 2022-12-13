@@ -7,8 +7,7 @@
     },
     "authors": [
         {
-            "name": "Clément Ballet",
-            "email": "clementballet@gmail.com"
+            "name": "Clément Ballet"
         }
     ],
     "require-dev": {
