@@ -1,0 +1,20 @@
+{
+    "name": "c.ballet/livecoding-twig",
+    "autoload": {
+        "psr-4": {
+            "App\\": ""
+        }
+    },
+    "authors": [
+        {
+            "name": "Clément Ballet",
+            "email": "clementballet@gmail.com"
+        }
+    ],
+    "require-dev": {
+        "twig/twig": "^3.4"
+    },
+    "require": {
+        "twig/string-extra": "^3.4"
+    }
+}

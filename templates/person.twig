@@ -1,0 +1,4 @@
+<p>Hello {{ person.name }}, j'ai {{ person.age }} ans.</p>
+<p>J'habite au {{ address.number }} {{ address.street }} à {{ address.city }}</p>
+
+<p>Description : {{ person.description | u.truncate(20, '...', false) }}</p>
